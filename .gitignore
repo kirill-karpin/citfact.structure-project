@@ -1,0 +1,11 @@
+/node_modules
+/vendor
+/composer.json
+/composer.lock
+/composer.phar
+/local
+/upload
+/bitrix
+/.idea
+/robots.txt
+/sitemap*
