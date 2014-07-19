@@ -1,5 +1,4 @@
 <?
 $sSectionName = "Склады";
-$arDirProperties = array(
-);
+$arDirProperties = array();
 ?>

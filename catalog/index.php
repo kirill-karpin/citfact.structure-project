@@ -1,4 +1,4 @@
-<?require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");?>
+<? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php"); ?>
 <?$APPLICATION->IncludeComponent("bitrix:catalog", "", array(
         "IBLOCK_TYPE" => "catalog",
         "IBLOCK_ID" => "2",

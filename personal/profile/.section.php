@@ -1,6 +1,4 @@
 <?
 $sSectionName = "Настройки пользователя";
-$arDirProperties = array(
-
-);
+$arDirProperties = array();
 ?>
